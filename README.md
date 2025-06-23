@@ -10,11 +10,11 @@
 ### 🧑‍🎓 About Me
 
 - 🔭 I’m currently studying **Bachelor of Information Technology (BIT)** at *University of Colombo*
-- 🌱 I’m currently learning: `Full Stack Development`, `Data Structures & Algorithms`, `UI/UX Design`
+- 🌱 I’m currently learning: `Laravel`, `SpringBoot`, `Angular`
 - 👯 I’m looking to collaborate on **Open Source** and **Academic Projects**
-- 💬 Ask me about `HTML`, `CSS`, `JavaScript`, `Python`, `MySQL`
-- 📫 How to reach me: **dananjaya@example.com**
-- ⚡ Fun fact: I love cricket 🏏 and solving logic puzzles 🧠
+- 💬 Ask me about `HTML`, `CSS`, `JavaScript`,  `MySQL`
+- 📫 How to reach me: **danajayasamarasinghe75@gmail.com**
+- ⚡ Fun fact: I love cricket 
 
 ---
 
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -42,7 +41,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dananjaya)](https://linkedin.com/in/dananjaya](https://www.linkedin.com/in/dananjaya-samarasinghe-620a49352/))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dananjaya)]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dananjayasamarasinghe75@gmail.com)
 
 ---
