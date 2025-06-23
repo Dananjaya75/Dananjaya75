@@ -46,6 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dananjaya-dev/dananjaya-dev/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
