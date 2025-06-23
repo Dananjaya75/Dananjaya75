@@ -41,7 +41,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dananjaya)]
+[![LinkedIn]([[https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dananjaya)](https://www.linkedin.com/in/dananjaya-samarasinghe-620a49352/)]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dananjayasamarasinghe75@gmail.com)
 
 ---
