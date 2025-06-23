@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dananjaya Samarasinghe</h1>
+<h3 align="center">Undergraduate | BIT - University of Colombo | Tech Enthusiast 💻</h3>
 
-<!--
-**Dananjaya75/Dananjaya75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dananjaya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dananjaya-dev" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎓 About Me
+
+- 🔭 I’m currently studying **Bachelor of Information Technology (BIT)** at *University of Colombo*
+- 🌱 I’m currently learning: `Full Stack Development`, `Data Structures & Algorithms`, `UI/UX Design`
+- 👯 I’m looking to collaborate on **Open Source** and **Academic Projects**
+- 💬 Ask me about `HTML`, `CSS`, `JavaScript`, `Python`, `MySQL`
+- 📫 How to reach me: **dananjaya@example.com**
+- ⚡ Fun fact: I love cricket 🏏 and solving logic puzzles 🧠
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dananjaya-dev&show_icons=true&theme=tokyonight" alt="stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=dananjaya-dev&theme=tokyonight" alt="streak-stats" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dananjaya)](https://linkedin.com/in/dananjaya](https://www.linkedin.com/in/dananjaya-samarasinghe-620a49352/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dananjayasamarasinghe75@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dananjaya-dev/dananjaya-dev/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
