@@ -12,7 +12,7 @@
 - 🔭 I’m currently studying **Bachelor of Information Technology (BIT)** at *University of Colombo*
 - 🌱 I’m currently learning: `Laravel`, `SpringBoot`, `Angular`
 - 👯 I’m looking to collaborate on **Open Source** and **Academic Projects**
-- 💬 Ask me about `HTML`, `CSS`, `JavaScript`,  `MySQL`
+- 💬 Ask me about `HTML`, `CSS`, `JavaScript`,  `MySQL`,`java`
 - 📫 How to reach me: **danajayasamarasinghe75@gmail.com**
 - ⚡ Fun fact: I love cricket 
 
